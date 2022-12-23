@@ -10,6 +10,11 @@
       "StackName": "amplify-containerec2vite-dev-93231",
       "StackId": "arn:aws:cloudformation:eu-west-1:508397570034:stack/amplify-containerec2vite-dev-93231/58dd4a80-829c-11ed-9c68-02e0c4c99bef",
       "AmplifyAppId": "d2gj5bvdplf4oo"
+    },
+    "categories": {
+      "api": {
+        "containerec2vite": {}
+      }
     }
   }
 }
